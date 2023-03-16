@@ -5,7 +5,9 @@
 #date: March, 2023
 
 #In order to access the jira website you will need to use my email 
+
 #the url: "https://jira-automation-demo.atlassian.net/"
+
 #and the password: DEMO
 
 #This project is heavily based on the code by Sebastian Opałczyński
@@ -14,7 +16,9 @@
 #INSTALLATION:
 #Make sure to have installed the import libraries. 
 #Also make sure to have installed PyTest by executing pip3 install -U pytest
+
 #USAGE: python3 ./demo.py
+
 #TEST: pytest ./test_demo.py
 
 #Other useful sources are: 
